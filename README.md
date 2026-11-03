@@ -18,7 +18,6 @@ I'm currently volunteering at **CRAFT Innovation Hub** and working as a **Data A
 * 🗄️ **Database Management:** Writing SQL queries to retrieve, filter, aggregate, and analyze data.
 * 🧮 **Statistical Analysis:** Applying statistical concepts to identify trends, patterns, and meaningful insights.
 * 👨‍🏫 **Knowledge Sharing:** Co-facilitating data analytics sessions at CRAFT Innovation Hub.
-* 🌱 **Currently Learning:** Strengthening my skills in SQL, Power BI, data modeling, and business analytics.
 * 🎯 **Career Goal:** To help organizations make data-driven decisions through reliable analysis and effective data storytelling.
 
 ---
