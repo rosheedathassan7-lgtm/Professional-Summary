@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **B.Sc. Statistics graduate from Usmanu Danf
 
 My background in statistics, combined with hands-on experience in data analysis and visualization, enables me to explore datasets, identify trends and patterns, build interactive dashboards, and communicate findings through actionable business recommendations.
 
-I'm currently volunteering at **CRAFT Innovation Hub** and working as a **Data Analysis Instructor at Al-Hikmah University Secondary School**. In these roles, I teach data analytics concepts, guide learners through hands-on projects, and help them develop practical skills in data cleaning, analysis, visualization, and business intelligence.
+I'm co-facilitating analytical sessions at **CRAFT Innovation Hub** and working as a **Data Analysis Instructor at Al-Hikmah University Secondary School**. In these roles, I teach data analytics concepts, guide learners through hands-on projects, and help them develop practical skills in data cleaning, analysis, visualization, and business intelligence.
 
 ---
 
