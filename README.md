@@ -105,7 +105,7 @@ I'm continuously improving my ability to:
 
 ## 🤝 Let's Connect!
 
-[E-mail](rosheedathassan7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hassan-rosheedat-570a6340a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[E-mail](mailto:rosheedathassan7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hassan-rosheedat-570a6340a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 * 🐙 **GitHub:** Explore my repositories
   
 I'm open to opportunities where I can apply my analytical skills, collaborate with other professionals, contribute to meaningful projects, and continue growing as a data analyst.
